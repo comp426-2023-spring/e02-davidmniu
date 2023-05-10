@@ -25,6 +25,19 @@
   "dependencies": {
     "express": "^4.18.2",
     "minimist": "^1.2.8",
-    "morgan": "^1.10.0"
-  }
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/e02-davidmniu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/e02-davidmniu/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/e02-davidmniu#readme"
 }
